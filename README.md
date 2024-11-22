@@ -41,4 +41,4 @@ This repository is a place for:
 
 ---
 
-Thank you for visiting **Research Chronicles**! Together, let’s explore, innovate, and make a difference. 💡
+Thank you for visiting! Together, let’s explore, innovate, and make a difference. 💡
